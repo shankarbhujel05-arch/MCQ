@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "question": "What is the unit of stress?",
+    "options": ["Newton", "Pascal", "Joule", "Watt"],
+    "correct": "Pascal",
+    "explanation": "Stress = Force / Area. Its SI unit is Pascal (Pa) = N/m².",
+    "category": "Mechanics"
+  },
+  {
+    "id": 2,
+    "question": "Which IS code governs RCC design in Nepal/India?",
+    "options": ["IS 456", "IS 800", "IS 875", "IS 1893"],
+    "correct": "IS 456",
+    "explanation": "IS 456:2000 is the code of practice for plain and reinforced concrete.",
+    "category": "Structural"
+  },
+  {
+    "id": 3,
+    "question": "What does 'E' represent in Hooke's Law (σ = Eε)?",
+    "options": ["Elongation", "Modulus of Elasticity", "Eccentricity", "Energy"],
+    "correct": "Modulus of Elasticity",
+    "explanation": "E = Young's Modulus (Modulus of Elasticity). It measures stiffness of a material.",
+    "category": "Mechanics"
+  },
+  {
+    "id": 4,
+    "question": "Standard compressive strength test for concrete cube is done after how many days?",
+    "options": ["3", "7", "14", "28"],
+    "correct": "28",
+    "explanation": "IS 516 specifies 28-day cube test as the standard strength criterion for concrete.",
+    "category": "Materials"
+  },
+  {
+    "id": 5,
+    "question": "What is the minimum clear cover for RCC slab (mild exposure)?",
+    "options": ["15 mm", "20 mm", "25 mm", "40 mm"],
+    "correct": "20 mm",
+    "explanation": "IS 456 Table 16 specifies 20 mm clear cover for mild exposure conditions in slabs.",
+    "category": "Structural"
+  },
+  {
+    "id": 6,
+    "question": "Water-Cement ratio has the greatest effect on which property of concrete?",
+    "options": ["Workability", "Density", "Strength", "Color"],
+    "correct": "Strength",
+    "explanation": "Abrams' Law: Lower W/C ratio = higher strength. W/C ratio is the primary factor affecting concrete strength.",
+    "category": "Materials"
+  },
+  {
+    "id": 7,
+    "question": "What is the standard size of a modular brick in India?",
+    "options": ["190×90×90 mm", "230×115×75 mm", "200×100×100 mm", "250×120×80 mm"],
+    "correct": "190×90×90 mm",
+    "explanation": "IS 1077 specifies the standard modular brick size as 190×90×90 mm (nominal 200×100×100 mm with mortar).",
+    "category": "Materials"
+  },
+  {
+    "id": 8,
+    "question": "Which type of foundation is used when soil bearing capacity is very low?",
+    "options": ["Isolated footing", "Strip footing", "Raft foundation", "Column footing"],
+    "correct": "Raft foundation",
+    "explanation": "Raft (mat) foundation spreads the load over the entire building area, suitable for low bearing capacity soils.",
+    "category": "Structural"
+  }
+]
